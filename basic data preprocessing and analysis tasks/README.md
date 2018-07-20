@@ -1,1 +1,2 @@
-# basic data preprocessing and analysis tasks
+* Data preprocessing 
+* Exploratory Data Analysis
