@@ -1,1 +1,2 @@
-# Regression approaches and Clustering
+ * Regression
+ * Clustering
