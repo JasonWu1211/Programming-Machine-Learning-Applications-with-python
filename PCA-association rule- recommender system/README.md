@@ -1,1 +1,3 @@
-# PCA&association rule& recommender system
+* PCA
+* Association Rules
+* Recommender systems
